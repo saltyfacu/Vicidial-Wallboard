@@ -3,5 +3,5 @@ Vicidial Realtime Call Statistics Testet with ViciBox: 7.0.3 | VERSION: 2.12-559
 #Getting Started
 <ul>
   <li>Clone this project into /srv/www/htdocs</li>
-  <li>Login to http://<SERVERIP OR DOMAIN>/wallboard</li>
+  <li>Login to http://vicidialserverip/wallboard</li>
 </ul>
