@@ -1,5 +1,5 @@
 # Vicidial-Wallboard
-Vicidial Realtime Call Statistics Testet with ViciBox: 7.0.3 | VERSION: 2.12-559a | BUILD: 160611-2230
+Vicidial Realtime Call Statistics Tested with ViciBox: 7.0.3 | VERSION: 2.12-559a | BUILD: 160611-2230
 #Getting Started
 <ul>
   <li>Clone this project into /srv/www/htdocs</li>
